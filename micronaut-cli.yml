@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.intellij.inheritance.annotations
+---
+testFramework: junit
+sourceLanguage: java
